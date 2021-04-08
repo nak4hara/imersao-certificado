@@ -1,0 +1,50 @@
+body {
+    background-color:#197278;
+    font-family: 'Poppins', sans-serif;
+    
+}
+section {
+    display: block;
+    background-color: #EDDDD4;
+    padding: 15px;
+    margin-top: 100px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    -webkit-box-shadow: 1px 3px 24px -3px rgba(0,0,0,0.89); 
+box-shadow: 1px 3px 24px -3px rgba(0,0,0,0.89);
+}
+
+section h1 {
+    font-size: 30px;
+    transform: translateX(30px);
+}
+
+section h2{
+    margin-left: 10px;
+    color: #772E25;
+}
+
+header {
+    background-image: url(https://assets.entrepreneur.com/content/3x2/2000/1614121632-NYAN-CAT.jpg);
+    background-size: cover;
+    background-position-y: 50%;
+}
+
+div {
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+    color: #1a1513;
+    
+}
+
+img{
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    margin-left: 330px;
+    border: 10px solid white;
+    transform: translateY(+185px);
+}
